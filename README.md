@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ECPay is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://ecpay.com.tw/
+ECPay (綠界科技) is a Taiwan‑based payment service provider offering a comprehensive suite of financial solutions, including credit‑card processing, ATM transfers, convenience‑store payments, electronic invoicing, logistics integration, and digital gift‑ticket services. It serves e‑commerce merchants, NGOs, and enterprises with APIs, SDKs, and AI‑enhanced tools to streamline checkout, recurring billing, and donation flows across multiple channels.
+
+**Areas:** Company · Payments · FinTech · Taiwan · E-commerce
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ecpay.com.tw/)
+- [Documentation](https://developers.ecpay.com.tw/)
+- [Support](https://support.ecpay.com.tw/)
+- [Blog](https://blog.ecpay.com.tw/)
+- [Terms of service](https://support.ecpay.com.tw/terms-return/)
+- [Privacy policy](https://www.ecpay.com.tw/CreditCard/Privacy)
+- [GitHub](https://github.com/ECPay)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/ecpay/](https://apis.io/providers/ecpay/).
